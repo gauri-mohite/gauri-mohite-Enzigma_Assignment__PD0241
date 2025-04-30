@@ -1,1 +1,2 @@
-# gauri-mohite-Enzigma_Assignment__PD0241
+# ng-training-Assessment-To-Do-List-Application
+this is repo for the enzigma online assessment for the to do application
